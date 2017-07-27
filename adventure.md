@@ -1,3 +1,5 @@
+# Adventure games
+
 1. Syberia (2002)* (2nd Playthrough Nov 2014)
 2. Syberia 2 (2004)* (Nov 2014)
 3. Broken Sword: The Shadow of the Templars (2010 Director's cut, 1996) (Feb 2015)
