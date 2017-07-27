@@ -42,7 +42,7 @@
 | Difficulty     | 4/5     | Some puzzles can be hard to figure out and block progress        |
 | Learning Curve | 1/5     |         |
 
-**Personal Opinion and OVerall Experience Score**: 1/5 *Forgettable*
+**Personal Opinion and Overall Experience Score**: 1/5 *Forgettable*
 
 Not one of my favorites, this one. Seemed pretty bland to me, and the plot is extremely cliched. However, *The Da Vinci Code* and the *Assassin's Creed* came much later after this game. So this game deserves the credit of originality in considerable proportion.
 
