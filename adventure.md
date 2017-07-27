@@ -24,7 +24,7 @@
 
 | Criteria     | Score | Comments |
 |--------------|-------|----------|
-| Story        | 3/5     | A moderately good story around a chliched plot |
+| Story        | 3/5     | A moderately good story around a cliched plot |
 | Gameplay     | 4/5     | Some witty puzzles. Standard gameplay        |
 | GFX          | 3/5     | From the classic era        |
 | Performance  | 5/5     |          |
@@ -33,7 +33,7 @@
 | Realism      | 2/5     |          |
 | Tempo        | 3/5     |          |
 
-**Level of Challenge**: 1.75/5 average
+**Level of Challenge**: 1.75/5 average score, meaning pretty easy
 
 | Criteria       | Score | Comments |
 |----------------|-------|----------|
@@ -41,6 +41,10 @@
 | Complexity     | 1/5     |        |
 | Difficulty     | 4/5     | Some puzzles can be hard to figure out and block progress        |
 | Learning Curve | 1/5     |         |
+
+**Personal Opinion and OVerall Experience Score**: 2/5 
+
+Not one of my favorites, this one. Seemed pretty bland to me, and the plot is extremely cliched. However, *The Da Vinci Code* and the *Assassin's Creed* came much later after this game. So this game deserves the credit of originality in considerable proportion.
 
 #### Deponia 
 #### Primordia
