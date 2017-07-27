@@ -7,7 +7,7 @@
 * Syberia (2002) 
 * [Syberia 2 (2004)](#syberia-2) 
 
-### Broken Sword: The Shadow of the Templars
+#### Broken Sword: The Shadow of the Templars
 Real
 #### Colossal Cave Adventure
 #### Deponia 
