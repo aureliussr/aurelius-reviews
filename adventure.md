@@ -18,7 +18,7 @@
 
 **Publisher**: Virgin Interactive
 
-**Description**: A well acclaimed title, considered revolutionary during its time, this game is a through and through classic PnC adventure game, which almost set the tone for many gmes to follow in this genre.
+**Description**: A well acclaimed title, considered revolutionary during its time, this game is a through and through classic PnC adventure game, which almost set the tone for many gmes to follow in this genre. You click on the screen to move characters, interact with on-screen items, solve puzzles, and move from one pre-drawn scene to the next.
 
 **Review**:
 
@@ -44,7 +44,7 @@
 
 **Personal Opinion and Overall Experience Score**: 1/5 *Forgettable*
 
-Not one of my favorites, this one. Seemed pretty bland to me, and the plot is extremely cliched. However, *The Da Vinci Code* and the *Assassin's Creed* came much later after this game. So this game deserves the credit of originality in considerable proportion.
+Not one of my favorites, this one. Seemed pretty bland to me, and the plot is extremely cliched. However, *The Da Vinci Code* and the *Assassin's Creed* series came much later after this game. So this game deserves the credit of originality in considerable proportion.
 
 #### Deponia 
 #### Primordia
