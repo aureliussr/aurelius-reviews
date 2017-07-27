@@ -49,6 +49,47 @@
 Not one of my favorites, this one. Seemed pretty bland to me, and the plot is extremely cliched. However, *The Da Vinci Code* and the *Assassin's Creed* series came much later after this game. So this game deserves the credit of originality in considerable proportion.
 
 #### Deponia 
+
+![Deponia Logo](https://upload.wikimedia.org/wikipedia/commons/8/89/Deponialogo.png "Logo attributed to Daedalic Entertainment. Source Wikipedia. Fair Use for Commentary")
+
+**Year**: 2012
+
+**Genre**: Point-n-click graphical adventure
+
+**Theme**: Comedy, Sarcastic and dark humor, Dystopian future
+
+**Developer**: Daedalic Entertainment
+
+**Publisher**: Daedalic Entertainment
+
+**Description**: A quite popular modern graphical adventure set in dystopian future, where the earth-like home planet Deponia has been abandoned by elitists in favor of settling in the orbital space station Elysium. Converted into a junk pile, the planet still remains home to a handful of determined survivors. One of them, the protagonist, dreams of leaving it and heading to the elusive and excusive Elysium, the abode of the elites. His goal however, is too ambitious, and his plans dubious, as you will soon find out as the player. 
+
+**Review**:
+
+| Criteria     | Score | Comments |
+|--------------|-------|----------|
+| Story        | 4/5     | A rather charming story with loads of sarcastic humor |
+| Gameplay     | 5/5     | Gameplay is flawless        |
+| GFX          | 5/5     | Cartoon style 2.5D graphics        |
+| Performance  | 5/5     |          |
+| Replay Value | 2/5     | Worth revisiting in years         |
+| Immersion    | 1/5     |          |
+| Realism      | 1/5     | Things really work in ridiculous ways in the world of Deponia. You will have to think out of the box         |
+| Tempo        | 3/5     |          |
+
+**Level of Challenge**: 1.75/5 average score, meaning pretty easy
+
+| Criteria       | Score | Comments |
+|----------------|-------|----------|
+| Control Scheme | 1/5     | Simple point and click    |
+| Complexity     | 1/5     |        |
+| Difficulty     | 4/5     | Some puzzles can be really hard to figure out and will block progress        |
+| Learning Curve | 1/5     |         |
+
+**Personal Opinion and Overall Experience Score**: 4/5 *Enjoyable*
+
+I pretty much enjoyed this game a lot, except for the annoyances created by some of the difficult puzzles.
+
 #### Primordia
 #### Syberia 
 #### Syberia 2 
