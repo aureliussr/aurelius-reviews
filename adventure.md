@@ -62,7 +62,7 @@ Not one of my favorites, this one. Seemed pretty bland to me, and the plot is ex
 
 **Publisher**: Daedalic Entertainment
 
-**Description**: A quite popular modern graphical adventure set in dystopian future, where the earth-like home planet Deponia has been abandoned by elitists in favor of settling in the orbital space station Elysium. Converted into a junk pile, the planet still remains home to a handful of determined survivors. One of them, the protagonist, dreams of leaving it and heading to the elusive and excusive Elysium, the abode of the elites. His goal however, is too ambitious, and his plans dubious, as you will soon find out as the player. 
+**Description**: A quite popular modern graphical adventure set in dystopian future, where the earth-like home planet Deponia has been abandoned by elitists in favor of settling in the orbital space station Elysium. Converted into a junk pile, the planet still remains home to a handful of determined survivors. One of them, the protagonist, dreams of leaving it and heading to the elusive and excusive Elysium, the abode of the elites. His goal however, is too ambitious, and his plans dubious, as you will soon find out. 
 
 **Review**:
 
