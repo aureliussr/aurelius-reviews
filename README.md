@@ -1,6 +1,6 @@
 **Useful and Comprehensive Reviews to Help You Choose Your Games**
 
-## Adventure
+## [Adventure](https://aureliussr.github.io/aurelius-reviews/adventure)
 ## Action
 ## Shooter
 ## Strategy
