@@ -1,4 +1,4 @@
-# Adventure games
+# Adventure Games
 
 1. Syberia (2002)* (2nd Playthrough Nov 2014)
 2. Syberia 2 (2004)* (Nov 2014)
