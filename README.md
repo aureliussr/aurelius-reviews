@@ -1,4 +1,11 @@
-### Useful and Comprehensive Reviews to Help You Choose Your Game
+**Useful and Comprehensive Reviews to Help You Choose Your Games**
 
-# RPGs
-# Shooters
+## Adventure
+## Action
+## Shooter
+## Strategy
+## RPG
+## MMORPG
+## Simulation
+## Sports
+## Cards
