@@ -1,1 +1,1 @@
-### Useful and comprehensive reviews for choosing your game
+### Useful and Comprehensive Reviews to Help You Choose Your Game
