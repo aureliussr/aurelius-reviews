@@ -7,8 +7,8 @@
 * Syberia (2002) 
 * [Syberia 2 (2004)](#syberia-2) 
 
-### Broken Sword: The Shadow of the Templars 
-### Colossal Cave Adventure
+#### Broken Sword: The Shadow of the Templars 
+#### Colossal Cave Adventure
 ### Deponia 
 ### Primordia 
 ### Syberia 
