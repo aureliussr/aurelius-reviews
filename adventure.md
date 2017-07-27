@@ -9,33 +9,38 @@
 #### Broken Sword: The Shadow of the Templars
 
 **Year**: 1996, version played - 2010 Director's Cut
+
 **Genre**: Point-n-click graphical adventure
+
 **Theme**: Templars, conspiracy theory, amateur detectives
+
 **Developer**: Revolution Software
+
 **Publisher**: Virgin Interactive
+
 **Description**: A well acclaimed title, considered revolutionary during its time, this game is a through and through classic PnC adventure game, which almost set the tone for many gmes to follow in this genre.
 
 **Review**:
 
 | Criteria     | Score | Comments |
 |--------------|-------|----------|
-| Story        | 3/5     | a        |
-| Gameplay     | 4     | s        |
-| GFX          | 3     | d        |
-| Performance  | 5     |          |
-| Replay Value | 2     |          |
-| Immersion    | 1     |          |
-| Realism      | 2     |          |
-| Tempo        | 3     |          |
+| Story        | 3/5     | A moderately good story around a chliched plot |
+| Gameplay     | 4/5     | Some witty puzzles. Standard gameplay        |
+| GFX          | 3/5     | From the classic era        |
+| Performance  | 5/5     |          |
+| Replay Value | 2/5     | Worth revisiting in years         |
+| Immersion    | 1/5     |          |
+| Realism      | 2/5     |          |
+| Tempo        | 3/5     |          |
 
-**Level of Challenge**:
+**Level of Challenge**: 1.75/5 average
 
 | Criteria       | Score | Comments |
 |----------------|-------|----------|
-| Control Scheme | 1     | d        |
-| Complexity     | 1     | f        |
-| Difficulty     | 4     | s        |
-| Learning Curve | 1     | d        |
+| Control Scheme | 1/5     | Simple point and click    |
+| Complexity     | 1/5     |        |
+| Difficulty     | 4/5     | Some puzzles can be hard to figure out and block progress        |
+| Learning Curve | 1/5     |         |
 
 #### Deponia 
 #### Primordia
