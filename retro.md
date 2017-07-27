@@ -1,4 +1,4 @@
-# Retro games
+# Retro Games
 
 * [Colossal Cave Adventure (1976)](#colossal-cave-adventure)
 
