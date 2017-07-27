@@ -7,9 +7,7 @@
 * [Syberia 2 (2004)](#syberia-2) 
 
 #### Broken Sword: The Shadow of the Templars
-Real
 #### Deponia 
 #### Primordia
-Real
 #### Syberia 
 #### Syberia 2 
