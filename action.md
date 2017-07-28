@@ -1,6 +1,6 @@
 # Action Games
 
-* [Assassin's Creed (2007)](#assassin's-creed)
+* [Assassin's Creed (2007)](#assassins-creed)
 * [Dishonored (2012)](#dishonored)
 * [Grand Theft Auto III (2001)](#grand-theft-auto-iii)
 * [Grand Theft Auto IV (2008)](#grand-theft-auto-iv)
