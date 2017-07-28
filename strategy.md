@@ -2,7 +2,7 @@
 
 * [Patrician, The (1992)](#the-patrician)
 * [Sid Meier’s Civilization (1991)](#sid-meiers-civilization)
-* [Warcraft: Orcs & Humans (1994)](#warcraft-orcs-humans)
+* [Warcraft: Orcs & Humans (1994)](#warcraft-orcs-&-humans)
 
 #### The Patrician
 
