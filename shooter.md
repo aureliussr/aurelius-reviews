@@ -3,12 +3,12 @@
 * [Blue Estate The Game (2015)](#blue-estate-the-game)
 * [Borderlands (2009)](#borderlands)
 * [Condemned: Criminal Origins (2005)](#condemned-criminal-origins)
-* [Doom (1995 Ultimate Doom, 1993)](#doom-1993)
+* [Doom (**1995 Ultimate Doom**, 1993)](#doom-1993)
 * [Far Cry 2 (2008)](#far-cry-2)
 * [Half-life (1998)](#half-life)
 * [Hitman 2: Silent Assassin (2002)](#hitman-2-silent-assassin)
 * [Hitman: Contracts (2004)](#hitman-contracts)
-* [Resident Evil (2015 HD Remaster, 2002 Remake, 1996)](#resident-evil-2002)
+* [Resident Evil (**2015 HD Remaster**, 2002 Remake, 1996)](#resident-evil-2002)
 * [Tom Clancy's Splinter Cell (2002)](#tom-clancys-splinter-cell)
 
 #### Blue Estate The Game
