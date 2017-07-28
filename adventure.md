@@ -8,7 +8,7 @@
 
 #### Broken Sword: The Shadow of the Templars
 
-![Broken Sword Cover Art](https://upload.wikimedia.org/wikipedia/en/5/58/Broken_Sword_1_cover.png "Cover art copyright of Virgin Interactive/Revolution Software. Source Wikipedia. Fair Use for Commentary")
+![Broken Sword Cover Art](https://upload.wikimedia.org/wikipedia/en/5/58/Broken_Sword_1_cover.png "Cover art copyright of Virgin Interactive/Revolution Software. Source Wikipedia. Fair Use for Commentary"){:height="150px" width="100px"}
 
 **Year**: 1996, version played - 2010 Director's Cut
 
