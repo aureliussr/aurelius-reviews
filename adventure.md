@@ -8,7 +8,7 @@
 
 #### Broken Sword: The Shadow of the Templars
 
-![Broken Sword Cover Art](https://upload.wikimedia.org/wikipedia/en/5/58/Broken_Sword_1_cover.png "Cover art copyright of Virgin Interactive/Revolution Software. Source Wikipedia. Fair Use for Commentary"){:height="150px" width="100px"}
+![Broken Sword Cover Art](https://upload.wikimedia.org/wikipedia/en/5/58/Broken_Sword_1_cover.png "Cover art copyright of Virgin Interactive/Revolution Software. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="100px"}
 
 **Year**: 1996, version played - 2010 Director's Cut
 
@@ -50,7 +50,7 @@ Not one of my favorites, this one. Seemed pretty bland to me, and the plot is ex
 
 #### Deponia 
 
-![Deponia Logo](https://upload.wikimedia.org/wikipedia/commons/8/89/Deponialogo.png "Logo attributed to Daedalic Entertainment. Source Wikipedia. Fair Use for Commentary")
+![Deponia Logo](https://upload.wikimedia.org/wikipedia/commons/8/89/Deponialogo.png "Logo attributed to Daedalic Entertainment. Source Wikipedia. Image for commentary as per Fair Use policy")
 
 **Year**: 2012
 
