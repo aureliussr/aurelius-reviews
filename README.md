@@ -9,4 +9,5 @@
 ## [Simulation](https://aureliussr.github.io/aurelius-reviews/simulation)
 ## [Sports](https://aureliussr.github.io/aurelius-reviews/sports)
 ## [Cards Based](https://aureliussr.github.io/aurelius-reviews/cards)
+## [Puzzle Based](https://aureliussr.github.io/aurelius-reviews/puzzle)
 ## [Retro](https://aureliussr.github.io/aurelius-reviews/retro)
