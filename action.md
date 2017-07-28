@@ -1,11 +1,14 @@
 # Action Games
 
+## Action Adventures
 * [Assassin's Creed (2007)](#assassins-creed)
-* [Dishonored (2012)](#dishonored)
 * [Grand Theft Auto III (2001)](#grand-theft-auto-iii)
 * [Grand Theft Auto IV (2008)](#grand-theft-auto-iv)
 * [Just Cause (2006)](#just-cause)
 * [Saint's Row 2 (2008)](#saints-row-2)
+
+## Stealth Action
+* [Dishonored (2012)](#dishonored)
 
 #### Assassin's Creed
 
