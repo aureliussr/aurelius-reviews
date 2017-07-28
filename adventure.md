@@ -1,6 +1,7 @@
 # Adventure Games
 
 * [Broken Sword: The Shadow of the Templars (**2010 Director's Cut**, 1996)](#broken-sword-the-shadow-of-the-templars)
+* [Brothers: A Tale of Two Sons (2013)](#brothers-a-tale-of-two-sons)
 * [Deponia (2012)](#deponia)
 * [Primordia (2012)](#primordia)
 * [Syberia (2002)](#syberia) 
@@ -47,6 +48,8 @@
 **Personal Opinion and Overall Experience Score**: 1/5 *Forgettable*
 
 Not one of my favorites, this one. Seemed pretty bland to me, and the plot is extremely cliched. However, *The Da Vinci Code* and the *Assassin's Creed* series came much later after this game. So this game deserves the credit of originality in considerable proportion.
+
+#### Brothers: A Tale of Two Sons
 
 #### Deponia 
 
