@@ -4,7 +4,7 @@
 * [Blue Estate The Game (2015)](#blue-estate-the-game)
 * [Borderlands (2009)](#borderlands)
 * [Condemned: Criminal Origins (2005)](#condemned-criminal-origins)
-* [Doom (**1995 Ultimate Doom**, 1993)](#doom-1993)
+
 * [Far Cry 2 (2008)](#far-cry-2)
 * [Half-life (1998)](#half-life)
 
@@ -21,8 +21,6 @@
 #### Borderlands
 
 #### Condemned: Criminal Origins
-
-#### Doom 1993
 
 #### Far Cry 2
 
