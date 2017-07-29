@@ -29,6 +29,7 @@
 ## Educational
 * [Where in the World is Carmen Sandiego (1985)](#where-in-the-world-is-carmen-sandiego-1985)
 
+[**Explanation of Scoring**](https://aureliussr.github.io/aurelius-reviews/rubric)
 
 #### Akalabeth: World of Doom
 
