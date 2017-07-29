@@ -51,6 +51,47 @@ Not one of my favorites, this one. Seemed pretty bland to me, and the plot is ex
 
 #### Brothers: A Tale of Two Sons
 
+![Brothers Cover Art](https://upload.wikimedia.org/wikipedia/en/c/cd/Brothers_A_Tale_of_Two_Sons_cover_art.jpg "Cover art copyright of 505 Games/Starbreeze Studios. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="100px"}
+
+**Year**: 2013
+
+**Genre**: Adventure
+
+**Theme**: Fairytale fantasy
+
+**Developer**: Starbreeze Studios
+
+**Publisher**: 505 Games
+
+**Description**: Novel co-op enabled control mechanism, and unique gameplay mechanics spread across two protagonist characters. Plus it has a moving and poignant story, and beautiful art work painting one of the most beautiful atmospheric game environments. The protagonists are two young boys, brothers, going on a quest to find special medicine for their ailing father. The boys have unique capabilities and must work together to overcome the various challenges they face.
+
+**Review**:
+
+| Criteria     | Score | Comments |
+|--------------|-------|----------|
+| Story        | 4/5     |        |
+| Gameplay     | 5/5     | Co-op is possible sharing controller. Solid gameplay        |
+| GFX          | 5/5     | Beautiful and magical environment        |
+| Performance  | 5/5     |          |
+| Replay Value | 4/5     | Some open exploration is possible         |
+| Immersion    | 1/5     |          |
+| Realism      | 3/5     | Some physics based gameplay         |
+| Tempo        | 5/5     |          |
+
+**Level of Challenge**: 2/5 average score, meaning easy
+
+| Criteria       | Score | Comments |
+|----------------|-------|----------|
+| Control Scheme | 2/5     | Can be slightly difficult playing solo    |
+| Complexity     | 1/5     |        |
+| Difficulty     | 3/5     |        |
+| Learning Curve | 2/5     | Must understand the duality of the gameplay mechanics shared across the two brothers        |
+
+**Personal Opinion and Overall Experience Score**: 4/5 *Enjoyable*
+
+Although I enjoyed this game a lot, I personally do not approve of it due to a certain feeling of disappointment which I cannot elaborate upon without spoilers.
+
+
 #### Deponia 
 
 ![Deponia Logo](https://upload.wikimedia.org/wikipedia/commons/8/89/Deponialogo.png "Logo attributed to Daedalic Entertainment. Source Wikipedia. Image for commentary as per Fair Use policy")
