@@ -1,5 +1,7 @@
 # Adventure Games
 
+[**Explanation of Scoring**](https://aureliussr.github.io/aurelius-reviews/rubric)
+
 * [Broken Sword: The Shadow of the Templars (**2010 Director's Cut**, 1996)](#broken-sword-the-shadow-of-the-templars)
 * [Brothers: A Tale of Two Sons (2013)](#brothers-a-tale-of-two-sons)
 * [Deponia (2012)](#deponia)
