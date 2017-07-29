@@ -9,7 +9,7 @@
 
 #### Broken Sword: The Shadow of the Templars
 
-![Broken Sword Cover Art](https://upload.wikimedia.org/wikipedia/en/5/58/Broken_Sword_1_cover.png "Cover art copyright of Virgin Interactive/Revolution Software. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="100px"}
+![Broken Sword Cover Art](https://upload.wikimedia.org/wikipedia/en/5/58/Broken_Sword_1_cover.png "Cover art copyright of Virgin Interactive/Revolution Software. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
 
 **Year**: 1996, version played - 2010 Director's Cut
 
@@ -51,7 +51,7 @@ Not one of my favorites, this one. Seemed pretty bland to me, and the plot is ex
 
 #### Brothers: A Tale of Two Sons
 
-![Brothers Cover Art](https://upload.wikimedia.org/wikipedia/en/c/cd/Brothers_A_Tale_of_Two_Sons_cover_art.jpg "Cover art copyright of 505 Games/Starbreeze Studios. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="100px"}
+![Brothers Cover Art](https://upload.wikimedia.org/wikipedia/en/c/cd/Brothers_A_Tale_of_Two_Sons_cover_art.jpg "Cover art copyright of 505 Games/Starbreeze Studios. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
 
 **Year**: 2013
 
