@@ -4,6 +4,8 @@
 * [Poker Night at the Inventory (2010)](#poker-night-at-the-inventory)
 * [Poker Night 2 (2013)](#poker-night-2)
 
+[**Explanation of Scoring**](https://aureliussr.github.io/aurelius-reviews/rubric)
+
 #### Hearthstone
 
 #### Poker Night at the Inventory
