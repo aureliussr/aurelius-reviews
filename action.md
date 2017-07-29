@@ -10,6 +10,8 @@
 ## Stealth Action
 * [Dishonored (2012)](#dishonored)
 
+[**Explanation of Scoring**](https://aureliussr.github.io/aurelius-reviews/rubric)
+
 #### Assassin's Creed
 
 #### Dishonored
