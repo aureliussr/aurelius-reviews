@@ -7,6 +7,8 @@
 ## Sandbox RPGs
 * [Mount and Blade: Warband (2010)](#mount-and-blade-warband)
 
+[**Explanation of Scoring**](https://aureliussr.github.io/aurelius-reviews/rubric)
+
 #### The Elder Scrolls III: Morrowind
 
 #### Gothic
