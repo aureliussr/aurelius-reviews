@@ -15,6 +15,8 @@
 ## Survival Horror Shooters
 * [Resident Evil (**2015 HD Remaster**, 2002 Remake, 1996)](#resident-evil-2002)
 
+[**Explanation of Scoring**](https://aureliussr.github.io/aurelius-reviews/rubric)
+
 #### Blue Estate The Game
 
 #### Borderlands
