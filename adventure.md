@@ -6,6 +6,7 @@
 * [Primordia (2012)](#primordia)
 * [Syberia (2002)](#syberia) 
 * [Syberia 2 (2004)](#syberia-2)
+* [Valiant Hearts (2014)](#valiant-hearts)
 
 [**Explanation of Scoring**](https://aureliussr.github.io/aurelius-reviews/rubric)
 
@@ -138,4 +139,5 @@ I pretty much enjoyed this game a lot, except for the annoyances created by some
 
 #### Primordia
 #### Syberia 
-#### Syberia 2 
+#### Syberia 2
+#### Valiant Hearts
