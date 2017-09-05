@@ -181,7 +181,7 @@ I pretty much enjoyed this game, but was somewhat disappointed with the lacklust
 
 #### Syberia 
 
-!Syberia Cover Art](https://upload.wikimedia.org/wikipedia/en/c/c8/Syberia_Coverart.png "Cover art copyright of The Adventure Company/Microid/Anuman Interactive. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
+![Syberia Cover Art](https://upload.wikimedia.org/wikipedia/en/c/c8/Syberia_Coverart.png "Cover art copyright of The Adventure Company/Microid/Anuman Interactive. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
 
 **Year**: 2002
 
