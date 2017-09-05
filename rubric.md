@@ -20,4 +20,4 @@
 | Control Scheme | Very easy   | Easy   | Medium       | Difficult | Very Difficult |
 | Complexity     | Very simple | Simple | Moderate     | Complex   | Very intricate |
 | Difficulty     | Very easy   | Easy   | Medium       | Hard      | Unbeatable     |
-| Learning Curve | Very easy   | Easy   | Takes effort | Steep     | Take a library |
+| Learning Curve | Very easy   | Easy   | Takes effort | Steep     | Takes a library |
