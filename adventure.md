@@ -48,7 +48,7 @@
 | Difficulty     | 4/5     | Some puzzles can be hard to figure out and block progress        |
 | Learning Curve | 1/5     |         |
 
-**Personal Opinion and Overall Experience Score**: 1/5 *Forgettable*
+**Personal Opinion and Overall Experience Score**: 1/5
 
 Not one of my favorites, this one. Seemed pretty bland to me, and the plot is extremely cliched. However, *The Da Vinci Code* and the *Assassin's Creed* series came much later after this game. So this game deserves the credit of originality in considerable proportion.
 
@@ -90,7 +90,7 @@ Not one of my favorites, this one. Seemed pretty bland to me, and the plot is ex
 | Difficulty     | 3/5     |        |
 | Learning Curve | 2/5     | Must understand the duality of the gameplay mechanics shared across the two brothers        |
 
-**Personal Opinion and Overall Experience Score**: 4/5 *Enjoyable*
+**Personal Opinion and Overall Experience Score**: 4/5
 
 Although I enjoyed this game a lot, I personally do not approve of it due to a certain feeling of disappointment which I cannot elaborate upon without spoilers.
 
@@ -133,11 +133,93 @@ Although I enjoyed this game a lot, I personally do not approve of it due to a c
 | Difficulty     | 4/5     | Some puzzles can be really hard to figure out and will block progress        |
 | Learning Curve | 1/5     |         |
 
-**Personal Opinion and Overall Experience Score**: 4/5 *Enjoyable*
+**Personal Opinion and Overall Experience Score**: 4/5
 
 I pretty much enjoyed this game a lot, except for the annoyances created by some of the difficult puzzles.
 
 #### Primordia
+
+![Primordia Cover Art](https://upload.wikimedia.org/wikipedia/en/2/24/Primordia_cover.png "Cover art copyright of Wadjet Eye Games/Wormwood Studios. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
+
+**Year**: 2012
+
+**Genre**: Point-n-click graphical adventure
+
+**Theme**: Post-apocalyptic future, Superior AI, Robots, Extinction
+
+**Developer**: Wormwood Studios
+
+**Publisher**: Wadjet Eye Games
+
+**Description**: A modern graphical adventure set in post-apocalyptic future, where an earth-like planet is only inhabited by surviving superior AI and non-organic beings like robots and androids. It follows the story of one android and its companion bot in a quest to recover its power regeneration source from hostile droids and AI. Along the way the android discovers facts about its own origin as well as the historical events leading up to the present situation prevalent in the deserted planet. 
+
+**Review**:
+
+| Criteria     | Score | Comments |
+|--------------|-------|----------|
+| Story        | 3/5     | Somewhat cliched but moving story |
+| Gameplay     | 5/5     | Gameplay is flawless        |
+| GFX          | 5/5     | Mix of cartoon and pixel style 2.5D graphics        |
+| Performance  | 5/5     |          |
+| Replay Value | 3/5     | Has multiple endings and branching paths         |
+| Immersion    | 1/5     |          |
+| Realism      | 2/5     |Mostly logical         |
+| Tempo        | 3/5     |          |
+
+**Level of Challenge**: 1.5/5 average score, meaning pretty easy
+
+| Criteria       | Score | Comments |
+|----------------|-------|----------|
+| Control Scheme | 1/5     | Simple point and click    |
+| Complexity     | 1/5     |        |
+| Difficulty     | 3/5     | Some puzzles can be hard to figure out and may block progress        |
+| Learning Curve | 1/5     |         |
+
+**Personal Opinion and Overall Experience Score**: 3/5
+
+I pretty much enjoyed this game, but was somewhat disappointed with the lacklustre story.
+
 #### Syberia 
+
+!Syberia Cover Art](https://upload.wikimedia.org/wikipedia/en/c/c8/Syberia_Coverart.png "Cover art copyright of The Adventure Company/Microid/Anuman Interactive. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
+
+**Year**: 2002
+
+**Genre**: Point-n-click graphical adventure
+
+**Theme**: Nostalgia, Spring-automaton, Mechanical toys, Poignant, Clockpunk
+
+**Developer**: Microid (Benoit Sokal)
+
+**Publisher**: Microid/The Adventure Company/Anuman Interactive
+
+**Description**: A modern graphical adventure set in Europe and Northern Russia, post the collapse of the communist regime. An American lawyer, Kate Walker, gets dragged into a surreal dreamy adventure in search of a long lost surviving heir of a French mechanical toy company. Along the way she has to solve several puzzles, search for clues, and deal with colorful idiosyncratic characters. 
+
+**Review**:
+
+| Criteria     | Score | Comments |
+|--------------|-------|----------|
+| Story        | 5/5     | One of the most unique and memorable story you will ever come across |
+| Gameplay     | 4/5     | Based on a relatively old engine, which could use better screen navigation and faster locomotion of the on screen characters        |
+| GFX          | 4/5     | 2000 era third person 3D graphics with limited camera view        |
+| Performance  | 5/5     |          |
+| Replay Value | 2/5     | Worth revisiting in years        |
+| Immersion    | 1/5     |          |
+| Realism      | 2/5     |Mostly logical         |
+| Tempo        | 3/5     |          |
+
+**Level of Challenge**: 1.5/5 average score, meaning pretty easy
+
+| Criteria       | Score | Comments |
+|----------------|-------|----------|
+| Control Scheme | 1/5     | Simple point and click    |
+| Complexity     | 1/5     |        |
+| Difficulty     | 3/5     | Some puzzles can be hard to figure out and may block progress        |
+| Learning Curve | 1/5     |         |
+
+**Personal Opinion and Overall Experience Score**: 4/5
+
+I pretty much enjoyed this game, and the unique surrealistic story left a lasting impression on me.
+
 #### Syberia 2
 #### Valiant Hearts
