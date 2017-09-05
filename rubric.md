@@ -10,7 +10,7 @@
 | Performance  | Broken         | Struggling                | Okay                  | Optimized                               | Perfect                    |
 | Replay Value | None           | Worth revisiting in years | Moderate nonlinearity | Drastically nonlinear                   | Very High                  |
 | Immersion    | Abstract       | Armchair                  | Identity              | Immersion via atmosphere and aesthetics | Immersion via gameplay     |
-| Realism      | Cartoonish     | Casual                    | Moderate nonlinearity | Reaslistic                              | Hardcore                   |
+| Realism      | Cartoonish     | Casual                    | Moderate | Reaslistic                              | Hardcore                   |
 | Tempo        | Very Slow      | Sluggish                  | Medium                | Fast                                    | Express                    |
 
 ## Level of challenge
