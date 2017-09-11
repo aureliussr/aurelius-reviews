@@ -181,7 +181,7 @@ I pretty much enjoyed this game, but was somewhat disappointed with the lacklust
 
 #### Syberia 
 
-![Syberia Cover Art](https://upload.wikimedia.org/wikipedia/en/c/c8/Syberia_Coverart.png "Cover art copyright of The Adventure Company/Microid/Anuman Interactive. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
+![Syberia Cover Art](https://upload.wikimedia.org/wikipedia/en/c/c8/Syberia_Coverart.png "Cover art copyright of The Adventure Company/Microids/Anuman Interactive. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
 
 **Year**: 2002
 
@@ -189,9 +189,9 @@ I pretty much enjoyed this game, but was somewhat disappointed with the lacklust
 
 **Theme**: Nostalgia, Spring-automaton, Mechanical toys, Poignant, Clockpunk
 
-**Developer**: Microid (Benoit Sokal)
+**Developer**: Microids (Benoit Sokal)
 
-**Publisher**: Microid/The Adventure Company/Anuman Interactive
+**Publisher**: Microids/The Adventure Company/Anuman Interactive
 
 **Description**: A modern graphical adventure set in Europe and Northern Russia, post the collapse of the communist regime. An American lawyer, Kate Walker, gets dragged into a surreal dreamy adventure in search of a long lost surviving heir of a French mechanical toy company. Along the way she has to solve several puzzles, search for clues, and deal with colorful idiosyncratic characters. 
 
@@ -222,4 +222,45 @@ I pretty much enjoyed this game, but was somewhat disappointed with the lacklust
 I pretty much enjoyed this game, and the unique surrealistic story left a lasting impression on me.
 
 #### Syberia 2
+
+![Syberia 2 Cover Art](https://upload.wikimedia.org/wikipedia/en/0/0d/Syberia2.jpg "Cover art copyright of Microids. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
+
+**Year**: 2004
+
+**Genre**: Point-n-click graphical adventure
+
+**Theme**: Nostalgia, Spring-automaton, Mechanical toys, Poignant, Clockpunk
+
+**Developer**: Microids (Benoit Sokal)
+
+**Publisher**: Microids
+
+**Description**: The sequel to [Syberia](#syberia), the game is a modern graphical adventure set in Northern Russia, post the collapse of the communist regime. An American lawyer, Kate Walker, gets dragged into a surreal dreamy adventure in search of a long lost surviving heir of a French mechanical toy company. Along the way she has to solve several puzzles, search for clues, and deal with colorful idiosyncratic characters. While her journey started in [Syberia](#syberia), it continues in this sequel, as she closes in on the realization of an eccentric genius' life-long dream.
+
+**Review**:
+
+| Criteria     | Score | Comments |
+|--------------|-------|----------|
+| Story        | 5/5     | One of the most unique and memorable story you will ever come across |
+| Gameplay     | 4/5     | Based on a relatively old engine, which could use better screen navigation and faster locomotion of the on screen characters        |
+| GFX          | 4/5     | 2000 era third person 3D graphics with limited camera view        |
+| Performance  | 5/5     |          |
+| Replay Value | 2/5     | Worth revisiting in years        |
+| Immersion    | 1/5     |          |
+| Realism      | 2/5     |Mostly logical         |
+| Tempo        | 3/5     |          |
+
+**Level of Challenge**: 1.75/5 average score, meaning pretty easy
+
+| Criteria       | Score | Comments |
+|----------------|-------|----------|
+| Control Scheme | 1/5     | Simple point and click    |
+| Complexity     | 1/5     |        |
+| Difficulty     | 4/5     | Some puzzles can be hard to figure out and may block progress        |
+| Learning Curve | 1/5     |         |
+
+**Personal Opinion and Overall Experience Score**: 3/5
+
+I pretty much enjoyed this game, and the unique surrealistic story left a lasting impression on me, but nevertheless the original was a better game than this sequel.
+
 #### Valiant Hearts
