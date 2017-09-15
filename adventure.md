@@ -285,7 +285,7 @@ I pretty much enjoyed this game, and the unique surrealistic story left a lastin
 |--------------|-------|----------|
 | Story        | 5/5     | A touching and memorable story |
 | Gameplay     | 5/5     | Perfect        |
-| GFX          | 5/5     | Cartton style 2D graphics        |
+| GFX          | 5/5     | Cartoon style 2D graphics        |
 | Performance  | 5/5     |          |
 | Replay Value | 2/5     | Worth revisiting in years        |
 | Immersion    | 1/5     |          |
