@@ -263,4 +263,44 @@ I pretty much enjoyed this game, and the unique surrealistic story left a lastin
 
 I pretty much enjoyed this game, and the unique surrealistic story left a lasting impression on me, but nevertheless the original was a better game than this sequel.
 
-#### Valiant Hearts
+#### Valiant Hearts: The Great War
+
+![Valiant Hearts Cover Art](https://upload.wikimedia.org/wikipedia/en/e/ea/Valiant_Hearts_The_Great_War.jpg "Cover art copyright of Ubisoft. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
+
+**Year**: 2014
+
+**Genre**: Sidescrolling puzzle-based graphical adventure
+
+**Theme**: World War I, Soldier's Lives, Poignant
+
+**Developer**: Ubisoft Montpellier
+
+**Publisher**: Ubisoft
+
+**Description**: Valiant Hearts is a beautiful adventure game, with great art style and music, and fun gameplay. Encompassing all that is a touching story revolving around the lives of multiple characters drawn into the brutal conflict of the Great War. A lot cannot be said without spoilers, so let it be enough to state that this gem of a game is a must-play.
+
+**Review**:
+
+| Criteria     | Score | Comments |
+|--------------|-------|----------|
+| Story        | 5/5     | A touching and memorable story |
+| Gameplay     | 5/5     | Perfect        |
+| GFX          | 5/5     | Cartton style 2D graphics        |
+| Performance  | 5/5     |          |
+| Replay Value | 2/5     | Worth revisiting in years        |
+| Immersion    | 1/5     |          |
+| Realism      | 2/5     |Mostly logical         |
+| Tempo        | 4/5     |          |
+
+**Level of Challenge**: 1.25/5 average score, meaning very easy
+
+| Criteria       | Score | Comments |
+|----------------|-------|----------|
+| Control Scheme | 1/5     | Simple side scrolling    |
+| Complexity     | 1/5     |        |
+| Difficulty     | 2/5     |  Fairly easy       |
+| Learning Curve | 1/5     |         |
+
+**Personal Opinion and Overall Experience Score**: 5/5
+
+Doubtless one of the best games I played of its genre, and also overall.
