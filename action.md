@@ -42,9 +42,9 @@
 | Criteria     | Score | Comments |
 |--------------|-------|----------|
 | Story        | 4/5     | A good plot, but plenty of unrealized potential |
-| Gameplay     | 4/5     | Choppy on rare occasions, smoke is not rendered well        |
+| Gameplay     | 4/5     | Slightly glitchy        |
 | GFX          | 4/5     | Modern graphics, not stunning, but beautiful        |
-| Performance  | 5/5     |          |
+| Performance  | 4/5     | Choppy on rare occasions, smoke is not rendered well         |
 | Replay Value | 2/5     | Worth revisiting in years         |
 | Immersion    | 3/5     |          |
 | Realism      | 2/5     | A bit lacking in this as a shooter of its time         |
