@@ -6,7 +6,7 @@
 * [Primordia (2012)](#primordia)
 * [Syberia (2002)](#syberia) 
 * [Syberia 2 (2004)](#syberia-2)
-* [Valiant Hearts (2014)](#valiant-hearts)
+* [Valiant Hearts (2014)](#valiant-hearts-the-great-war)
 
 [**Explanation of Scoring**](https://aureliussr.github.io/aurelius-reviews/rubric)
 
