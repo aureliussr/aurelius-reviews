@@ -65,9 +65,9 @@
 
 **Developer**: Interplay
 
-**Publisher**: Electronic Arts
+**Publisher**: Electronic Arts (Currently owned by inXile Entertainment)
 
-**Description**: Considered by many as the best "western" themed game available, this is a short but solid game. You play the role of the archetypal cowboy hero, out to avenge the deaths of your friends and family, as you keep discovering more about your mysterious past along your journey. Although the story is conforming to a stereotype, it is conjured in a way unique enough to keep you interested till the end. Apart from the main story missions, you have an open world to explore on horse-back and plenty of things to do. You can hunt legendary wild animals, capture wanted criminals, enforce the rule of law, work for the regional pony express, help out a local rancher, or simply earn bucks by playing poker. Its a thoroughly fun packed game with the only downside being its short length. That should not however stop you from playing this!
+**Description**: Considered as a pioneering cult classic and spiritual predecessor of the acclaimed Fallout series, this game is a rough diamond. It is very attractive in concept, superb in immersion and reaslism; but the gameplay mechanics have not aged well at all. Should be tried at least once by all RPG fans. You play the role of a desert ranger, leading a party of four to seven members, across post-apocalyptic Arizona desert. Your task is to investigate disturbances reported from the local settlements and towns, until you stumble onto a conspiracy much bigger in scale than you ever expected.
 
 **Review**:
 
@@ -78,7 +78,7 @@
 | GFX          | 1/5     | Primitive        |
 | Performance  | 5/5     |         |
 | Replay Value | 2/5     | Worth revisiting in years if you can tolerate the painful gameplay         |
-| Immersion    | 5/5     |          |
+| Immersion    | 5/5     | One thing this game does really well         |
 | Realism      | 5/5     | Every bullet counts         |
 | Tempo        | 2/5     | Sluggish and going in circles type         |
 
@@ -86,14 +86,14 @@
 
 | Criteria       | Score | Comments |
 |----------------|-------|----------|
-| Control Scheme | 3/5     | Regular third-person, but some special actions and tactics with somewhat strange keybindings that do not offer better alternatives either    |
-| Complexity     | 2/5     | Upgrades and tactics       |
-| Difficulty     | 2/5     | Generally easy, but beware of sudden spikes        |
-| Learning Curve | 2/5     |         |
+| Control Scheme | 2/5     | |
+| Complexity     | 4/5     | Hardcore old school RPG       |
+| Difficulty     | N/A     | Cannot comment        |
+| Learning Curve | 4/5     | Will need time and persistence        |
 
-**Personal Opinion and Overall Experience Score**: 4/5
+**Personal Opinion and Overall Experience Score**: N/A
 
-Thoroughly enjoyed this game. Biggest drawback is its short length. Loved doing the side missions. And even the missions in the same type were varied, so it never became repititive. My only serious complaint is the sudden spike in difficulty of the finale. The difficulty could have been ramped up instead of spiking so suddenly (and I had every upgrades and skills maximized). Otherwise, would love to see a new installment of this gem.
+It's a very old game. Game mechanics are painful. Could not continue with it despite several trying several times. But the concept is attractive, which kept bringing me back again and again. Eventually I gave up though. 
 
 
 
