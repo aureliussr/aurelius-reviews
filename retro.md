@@ -55,17 +55,17 @@
 
 #### Wasteland
 
-![Wasteland Cover Art](https://upload.wikimedia.org/wikipedia/en/d/d4/Gun_Coverart.jpg "Cover art copyright of Neversoft/Activision. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
+![Wasteland Cover Art](https://upload.wikimedia.org/wikipedia/en/b/b1/Wasteland_Coverart.png "Cover art copyright of inXile Entertainment. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
 
-**Year**: 2005
+**Year**: 1988
 
-**Genre**: Action adventure, Third-person shooter
+**Genre**: RPG
 
-**Theme**: Wild west, Cowboy, Apache territory, Frontier
+**Theme**: Post apocalypse, Nuclear holocaust, Conspiracy, Adventure
 
-**Developer**: Neversoft
+**Developer**: Interplay
 
-**Publisher**: Activision
+**Publisher**: Electronic Arts
 
 **Description**: Considered by many as the best "western" themed game available, this is a short but solid game. You play the role of the archetypal cowboy hero, out to avenge the deaths of your friends and family, as you keep discovering more about your mysterious past along your journey. Although the story is conforming to a stereotype, it is conjured in a way unique enough to keep you interested till the end. Apart from the main story missions, you have an open world to explore on horse-back and plenty of things to do. You can hunt legendary wild animals, capture wanted criminals, enforce the rule of law, work for the regional pony express, help out a local rancher, or simply earn bucks by playing poker. Its a thoroughly fun packed game with the only downside being its short length. That should not however stop you from playing this!
 
@@ -73,14 +73,14 @@
 
 | Criteria     | Score | Comments |
 |--------------|-------|----------|
-| Story        | 4/5     | A good plot, but plenty of unrealized potential |
-| Gameplay     | 4/5     | Slightly glitchy        |
-| GFX          | 4/5     | Modern graphics, not stunning, but beautiful        |
-| Performance  | 4/5     | Choppy on rare occasions, smoke is not rendered well         |
-| Replay Value | 2/5     | Worth revisiting in years         |
-| Immersion    | 3/5     |          |
-| Realism      | 2/5     | A bit lacking in this as a shooter of its time         |
-| Tempo        | 5/5     | Extremely fast         |
+| Story        | N/A     | Retired without finishing |
+| Gameplay     | 1/5     | Painful        |
+| GFX          | 1/5     | Primitive        |
+| Performance  | 5/5     |         |
+| Replay Value | 2/5     | Worth revisiting in years if you can tolerate the painful gameplay         |
+| Immersion    | 5/5     |          |
+| Realism      | 5/5     | Every bullet counts         |
+| Tempo        | 2/5     | Sluggish and going in circles type         |
 
 **Level of Challenge**: 2.25/5 average score, meaning easy
 
