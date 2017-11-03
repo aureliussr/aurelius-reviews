@@ -6,7 +6,7 @@
 * [Rogue (1980)](#rogue-1980)
 * [Ultima I: The First Age of Darkness (**1986 Re-coded**, 1981)](#ultima-i-the-first-age-of-darkness)
 * [Ultima II:The Revenge of the Enchantress (1982)](#ultima-ii-the-revenge-of-the-enchantress)
-* [Wasteland (1988)](#wasteland)
+* [Wasteland (**2013 Re-release**, **1988**)](#wasteland)
 
 ## Adventure
 * [Colossal Cave Adventure (1976)](#colossal-cave-adventure)
