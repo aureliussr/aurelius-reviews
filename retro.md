@@ -82,7 +82,7 @@
 | Realism      | 5/5     | Every bullet counts         |
 | Tempo        | 2/5     | Sluggish and going in circles type         |
 
-**Level of Challenge**: 2.25/5 average score, meaning easy
+**Level of Challenge**: N/A cannot comment accurately, but seemed pretty challenging, to the extent of discouraging from playing
 
 | Criteria       | Score | Comments |
 |----------------|-------|----------|
