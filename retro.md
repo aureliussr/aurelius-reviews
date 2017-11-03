@@ -95,6 +95,4 @@
 
 It's a very old game. Game mechanics are painful. Could not continue with it despite several trying several times. But the concept is attractive, which kept bringing me back again and again. Eventually I gave up though. 
 
-
-
 #### Where in the World is Carmen Sandiego 1985
