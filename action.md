@@ -19,9 +19,9 @@
 
 **Year**: 2007
 
-**Genre**: Action adventure, Third-person stealth action
+**Genre**: Action adventure, Third-person (optional stealth) action
 
-**Theme**: Medieval, Crusades, Templar order, Conspiracy theories
+**Theme**: Medieval, Crusades, Templar order, Hashhasins, Levant, Conspiracy theories
 
 **Developer**: Ubisoft Montreal
 
@@ -36,7 +36,7 @@
 | Story        | 5/5     | A solid story based on historical facts is the foundation of this game series |
 | Gameplay     | 5/5     | Robust and smooth        |
 | GFX          | 4/5     | Modern graphics, as good as possible for its time|
-| Performance  | 5/5     | Choppy on rare occasions, smoke is not rendered well         |
+| Performance  | 5/5     | |
 | Replay Value | 2/5     | Worth revisiting in years         |
 | Immersion    | 4/5     |          |
 | Realism      | 3/5     | A bit arcadish to be frank         |
