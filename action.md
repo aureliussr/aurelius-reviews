@@ -15,6 +15,44 @@
 
 #### Assassin's Creed
 
+![Assassin's Creed Cover Art](https://upload.wikimedia.org/wikipedia/en/9/99/Assassin%27s_Creed_cover.png "Cover art copyright of Ubisoft. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
+
+**Year**: 2007
+
+**Genre**: Action adventure, Third-person stealth action
+
+**Theme**: Medieval, Crusades, Templar order, Conspiracy theories
+
+**Developer**: Ubisoft Montreal
+
+**Publisher**: Ubisoft
+
+**Description**: 
+
+**Review**:
+
+| Criteria     | Score | Comments |
+|--------------|-------|----------|
+| Story        | 5/5     | A solid story based on historical facts is the foundation of this game series |
+| Gameplay     | 5/5     | Robust and smooth        |
+| GFX          | 4/5     | Modern graphics, as good as possible for its time|
+| Performance  | 5/5     | Choppy on rare occasions, smoke is not rendered well         |
+| Replay Value | 2/5     | Worth revisiting in years         |
+| Immersion    | 4/5     |          |
+| Realism      | 3/5     | A bit arcadish to be frank         |
+| Tempo        | 4/5     |     |
+
+**Level of Challenge**: 2.75/5 average score, meaning easy
+
+| Criteria       | Score | Comments |
+|----------------|-------|----------|
+| Control Scheme | 4/5     | Eventually becomes easy, but can be a bit puzzling to beginners, and takes time to get the hang of    |
+| Complexity     | 2/5     | Moves, weapons, approach |
+| Difficulty     | 2/5     |        |
+| Learning Curve | 3/5     | Takes a bit of effort to get into this style of games        |
+
+**Personal Opinion and Overall Experience Score**: 4/5
+
 #### Dishonored
 
 #### Grand Theft Auto III
