@@ -48,7 +48,7 @@
 | Difficulty     | 4/5     | Some puzzles can be hard to figure out and block progress        |
 | Learning Curve | 1/5     |         |
 
-**Personal Opinion and Overall Experience Score**: 1/5
+**Personal Opinion and Overall Experience Score**: 2/5
 
 Not one of my favorites, this one. Seemed pretty bland to me, and the plot is extremely cliched. However, *The Da Vinci Code* and the *Assassin's Creed* series came much later after this game. So this game deserves the credit of originality in considerable proportion.
 
@@ -90,7 +90,7 @@ Not one of my favorites, this one. Seemed pretty bland to me, and the plot is ex
 | Difficulty     | 3/5     |        |
 | Learning Curve | 2/5     | Must understand the duality of the gameplay mechanics shared across the two brothers        |
 
-**Personal Opinion and Overall Experience Score**: 4/5
+**Personal Opinion and Overall Experience Score**: 3/5
 
 Although I enjoyed this game a lot, I personally do not approve of it due to a certain feeling of disappointment which I cannot elaborate upon without spoilers.
 
