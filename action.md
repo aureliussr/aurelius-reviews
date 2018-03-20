@@ -27,7 +27,7 @@
 
 **Publisher**: Ubisoft
 
-**Description**: 
+**Description**: The first title of a franchise of gigantic proportions, AC set the balls in motion for the trademark historical action game series of Ubisoft. It has revolutionary graphics for its time, fluid gameplay, and satisfactory joy of killing, if that is what you care for. You can stab, and slash, and chop, all your way till kingdom come, as far as this game is concerned. Although it is marketed as a stealth action game, it is basically like Hitman, and to use stealth, or not, is completely optional. You play the role of a disgraced member of the order of the Assassins, during the Third Crusade in Levant region surrounding Jeruzalem and Acre. After being stripped off your rank and status due to insurbordination, you must again rise up the ladder of the order to earn back your reputation and renown. For this you do the bidding of the order's leader, blindly following his commands to kill different leaders from both side of the war. AC is a cult classic, and must be played to truly relish the origins of this mega franchise even though it is not as interesting a game as more recent titles in the series.
 
 **Review**:
 
@@ -51,7 +51,8 @@
 | Difficulty     | 2/5     |        |
 | Learning Curve | 3/5     | Takes a bit of effort to get into this style of games        |
 
-**Personal Opinion and Overall Experience Score**: 4/5
+**Personal Opinion and Overall Experience Score**: 3/5
+I enjoyed the game, to be frank. Till date I have played it twice with a gap of four to five years in-between.
 
 #### Dishonored
 
