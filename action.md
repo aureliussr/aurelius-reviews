@@ -52,7 +52,7 @@
 | Learning Curve | 3/5     | Takes a bit of effort to get into this style of games        |
 
 **Personal Opinion and Overall Experience Score**: 3/5
-I enjoyed the game, to be frank. Till date I have played it twice with a gap of four to five years in-between.
+I enjoyed the game, to be frank. Till date I have played it twice with a gap of four to five years in-between. It is a bit monotonous though and can be a bit boring in comparison to recent games of its genre.
 
 #### Dishonored
 
