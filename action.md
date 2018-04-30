@@ -15,7 +15,7 @@
 
 #### Assassin's Creed
 
-![Assassin's Creed Cover Art](https://upload.wikimedia.org/wikipedia/en/9/99/Assassin%27s_Creed_cover.png "Cover art copyright of Ubisoft. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
+![Assassin's Creed Cover Art](images/Assassin's_creed.jpg "Cover art copyright of Ubisoft. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
 
 **Year**: 2007
 
