@@ -57,8 +57,6 @@ I enjoyed the game, to be frank. Till date I have played it twice with a gap of 
 
 #### Grand Theft Auto III
 
-#### Grand Theft Auto IV
-
 #### Gun
 
 ![Gun Cover Art](https://upload.wikimedia.org/wikipedia/en/d/d4/Gun_Coverart.jpg "Cover art copyright of Neversoft/Activision. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
@@ -100,8 +98,6 @@ I enjoyed the game, to be frank. Till date I have played it twice with a gap of 
 **Personal Opinion and Overall Experience Score**: 4/5
 
 Thoroughly enjoyed this game. Biggest drawback is its short length. Loved doing the side missions. And even the missions in the same type were varied, so it never became repititive. My only serious complaint is the sudden spike in difficulty of the finale. The difficulty could have been ramped up instead of spiking so suddenly (and I had every upgrades and skills maximized). Otherwise, would love to see a new installment of this gem.
-
-#### Just Cause
 
 #### Saint's Row 2
 
