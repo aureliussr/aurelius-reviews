@@ -1,8 +1,6 @@
 # Cards Based Games
 
 * [Hearthstone (2014)](#hearthstone)
-* [Poker Night at the Inventory (2010)](#poker-night-at-the-inventory)
-* [Poker Night 2 (2013)](#poker-night-2)
 
 [**Explanation of Scoring**](https://aureliussr.github.io/aurelius-reviews/rubric)
 
@@ -47,7 +45,3 @@
 **Personal Opinion and Overall Experience Score**: 4/5 *Enjoyable*
 
 I pretty much enjoyed this game a lot, except the fact that luck and chance play a very important role in it. Since that is same IRL, I look towards games for a false sense of control. Since this game defeats that purpose, I had to simply retire from it.
-
-#### Poker Night at the Inventory
-
-#### Poker Night 2
