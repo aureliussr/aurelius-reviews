@@ -1,27 +1,21 @@
 # Shooter Games
 
 ## Generic First and Third Person Shooters
-* [Blue Estate The Game (2015)](#blue-estate-the-game)
 * [Borderlands (2009)](#borderlands)
-* [Condemned: Criminal Origins (2005)](#condemned-criminal-origins)
 * [Far Cry 2 (2008)](#far-cry-2)
-* [Half-life (1998)](#half-life)
 
 ## Stealth Shooters
-* [Hitman 2: Silent Assassin (2002)](#hitman-2-silent-assassin)
-* [Hitman: Contracts (2004)](#hitman-contracts)
-* [Tom Clancy's Splinter Cell (2002)](#tom-clancys-splinter-cell)
+
 
 ## Survival Horror Shooters
 * [Resident Evil (**2015 HD Remaster**, 2002 Remake, 1996)](#resident-evil-2002)
 
 [**Explanation of Scoring**](https://aureliussr.github.io/aurelius-reviews/rubric)
 
-#### Blue Estate The Game
+
 
 #### Borderlands
 
-#### Condemned: Criminal Origins
 
 #### Far Cry 2
 
@@ -65,15 +59,11 @@
 
 I played this game over one to three incomplete playthroughs spanning 35 hours in total. The longest playthrough was probably for around 20 -25 hours. The game does have its plus points, the biggest being the immersion it is able to achieve, both through GFX and also gameplay. For example, the game uses a hand-held map which does not force you to leave the game screen, and GPS is realistic, the HUD is very minimal. You get seizures of malaria randomly, and if you use worn out guns, they jam while in combat. These elements help achive superb levels of immersion. However the game has some big problems. Firstly its plot is weak and alsmost inexistant. The map is so small that different missions keep happening in same locations. The repititiveness of the game becomes a pain after 20 hours and the progression is so sluggish that even after 25 hours you feel like you are just where you had started. Thus even after three diffferent attempts, I had to finally retire from this game.
 
-#### Half-life
 
-#### Hitman 2: Silent Assassin
-
-#### Hitman: Contracts
 
 #### Resident Evil 2002
 
-#### Tom Clancy's Splinter Cell
+
 
 
 
