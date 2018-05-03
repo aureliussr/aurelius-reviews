@@ -141,4 +141,42 @@ Thoroughly enjoyed this game. Biggest drawback is its short length. Loved doing 
 
 #### Saint's Row 2
 
+![Saint's Row 2 Cover Art](https://aureliussr.github.io/aurelius-reviews/images/Saints_Row_2_Game_Cover.jpg "Cover art copyright of THQ/Nordic. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
 
+**Year**: 2009
+
+**Genre**: Action adventure, Open world, Third-person shooter
+
+**Theme**: Crime, Organized Crime, Gangsters, Mafia, Street Racing
+
+**Developer**: Volition (Playstation), CD Projekt Black (PC)
+
+**Publisher**: THQ (currently THQ-Nordic)
+
+**Description**: Saint’s Row 2 is the second installment in the Saint’s Row series of GTA clone games. Although, these games are GTA clones, imho they are actually even more fun to play than GTA games. Maybe not as deep or satisfying as GTA, but definitely more entertaining. SR 2 is no exception. In contrast to GTA, you can create your own character as male or female with plenty of customization options. The character models are one of the best I have ever seen actually. In every other way it is basically like any GTA game, you do missions all around the city, some are story missions and some are optional side missions. Collectibles strewn around, gang turf mechanisms, and all the rest of it. Another important aspect in which it is different from GTA, is the ability to recruit upto 3 gang members as your followers, who can basically act as your bodyguards.
+
+**Review**:
+
+| Criteria     | Score | Comments |
+|--------------|-------|----------|
+| Story        | 4/5     | Good story inspired by mob films like Godfather, Goodfellas, and Sopranos |
+| Gameplay     | 5/5     |   |
+| GFX          | 4/5     | Modern graphics, standard|
+| Performance  | 5/5     | |
+| Replay Value | 2/5     | Worth revisiting in years         |
+| Immersion    | 3/5     | Less imersive, but more of exaggerated fun         |
+| Realism      | 3/5     |          |
+| Tempo        | 3/5     | Standard open world pace with lot of activities    |
+
+**Level of Challenge**: 0.45/5 average score, meaning easy
+
+| Criteria       | Score | Comments |
+|----------------|-------|----------|
+| Control Scheme | 2/5     | Standard FPS and vehicle controls    |
+| Complexity     | 2/5     | Simple |
+| Difficulty     | 3/5     |       |
+| Learning Curve | 2/5     | Easy        |
+
+**Personal Opinion and Overall Experience Score**: 4/5
+
+I enjoyed the game, to be frank. Whacky humor, and exaggerated fun with ample amount of adult oriented content for flavor.
