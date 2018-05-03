@@ -143,7 +143,7 @@ Thoroughly enjoyed this game. Biggest drawback is its short length. Loved doing 
 
 ![Saint's Row 2 Cover Art](https://aureliussr.github.io/aurelius-reviews/images/Saints_Row_2_Game_Cover.jpg "Cover art copyright of THQ/Nordic. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
 
-**Year**: 2009
+**Year**: 2008 (consoles), 2009 (PC)
 
 **Genre**: Action adventure, Open world, Third-person shooter
 
