@@ -55,6 +55,46 @@ I enjoyed the game, to be frank. Till date I have played it twice with a gap of 
 
 #### Dishonored
 
+![Dishonored Cover Art](https://aureliussr.github.io/aurelius-reviews/images/Dishonored_box_art_Bethesda.jpg "Cover art copyright of Bethesda. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
+
+**Year**: 2012
+
+**Genre**: First-person stealth action, Action adventure
+
+**Theme**: Steampunk, Victorian, Assassin, Dark, Plague, Vengeance
+
+**Developer**: Arkane Studios
+
+**Publisher**: Bethesda Softworks
+
+**Description**: Dishonored is a critically acclaimed, bestselling, first-person stealth action adventure game developed by Arkane studios and published by Bethesda. It is a very well made game with robust gameplay, smooth interface, and gorgeous graphics depicting an exquisitely crafted steam punk atmosphere emulating Victorian London. You play the role of Corvo Attano, the royal bodyguard of Empress Jessamine Kaldwin, wrongly accused of the murdering the sovereign whom you are duty-bound to protect. While awaiting execution in jail, loyalists help you escape prison and eventually you defeat each of the rebel conspirators responsible for the Empresses demise, by lethal or non-lethal means. At your disposal are gadgets and magical powers, both of which you can upgrade and increase based on your choice of gameplay. Enemies comprise different type of city guards, the overseers (elite guards wielding magic suppression technology), and the zombie-like weepers who are terminal stage victims of the plague. Must buy this for a solid, satisfactory, stealth-action experience.
+
+**Review**:
+
+| Criteria     | Score | Comments |
+|--------------|-------|----------|
+| Story        | 4/5     | |
+| Gameplay     | 5/5     | Robust and smooth        |
+| GFX          | 5/5     | |
+| Performance  | 4/5     | Can hog resource and slow down in older machines|
+| Replay Value | 5/5     | Nonlinearity, different play-styles, etc.         |
+| Immersion    | 4/5     | Beautiful atmosphere         |
+| Realism      | 4/5     | Basic physics and AI        |
+| Tempo        | 4/5     |     |
+
+**Level of Challenge**: 0.45/5 average score, meaning easy
+
+| Criteria       | Score | Comments |
+|----------------|-------|----------|
+| Control Scheme | 2/5     |    |
+| Complexity     | 3/5     | Moves, weapons, approaches, gadgets, upgrades, choices |
+| Difficulty     | 2/5     |        |
+| Learning Curve | 2/5     |         |
+
+**Personal Opinion and Overall Experience Score**: 4/5
+
+I enjoyed the game, to be frank. Till date I have played it twice with a gap of four to five years in-between. It is basically a very enjoyable murder simulator with ingenious and gory methods of killing to experiment with. Also can be played as a challenging stealth game with adjustible difficulty. Cliched story, but still good entertainment, and has very good replay value.
+
 #### Grand Theft Auto III
 
 ![Grand Theft Auto III Cover Art](https://aureliussr.github.io/aurelius-reviews/images/GTA3boxcover.jpg "Cover art copyright of Rockstar. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
