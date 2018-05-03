@@ -57,7 +57,7 @@ I enjoyed the game, to be frank. Till date I have played it twice with a gap of 
 
 #### Grand Theft Auto III
 
-![Grand Theft Auto III Cover Art]( aurelius-reviews/images/GTA3boxcover.jpg "Cover art copyright of Rockstar. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
+![Grand Theft Auto III Cover Art](https://aureliussr.github.io/aurelius-reviews/images/GTA3boxcover.jpg "Cover art copyright of Rockstar. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
 
 **Year**: 2001
 
