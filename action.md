@@ -57,6 +57,45 @@ I enjoyed the game, to be frank. Till date I have played it twice with a gap of 
 
 #### Grand Theft Auto III
 
+![Grand Theft Auto III Cover Art]( aurelius-reviews/images/GTA3boxcover.jpg "Cover art copyright of Rockstar. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
+
+**Year**: 2001
+
+**Genre**: Action adventure, Open world, Third-person shooter
+
+**Theme**: Crime, Organized Crime, Gangsters, Mafia, New York City, Street Racing
+
+**Developer**: DMA Design
+**Publisher**: Rockstar
+
+**Description**: GTA III is third installment and the first 3D title of the GTA series. This title is revolutionary in many ways, but most importantly as pioneer of OPEN WORLD and SANDBOX-style gaming. Although open world games existed before GTA III, this game put the feature right near the top of the list, from where it went on to become the most dominating characteristic found in almost all of today’s top of the range games. In this game you play the role of a wronged criminal on his quest for revenge. Betrayed by your own (very hot) girlfriend, you find yourself right at the bottom of the pile, from where you must rise up through the ranks… by doing petty crimes and driving around mob bosses in the beginning, but assassinations, heists, auto theft, racing, and every type of criminal activities you can imagine as you progress along the game. The setting is Liberty City, loosely based on New York City. You can drive cars or boats. You can roam around freely. Some parts of the city will unlock based on your progress through the story-line. Missions are given out by characters strewn around the city. Apart from missions, there are plenty of side-missions which will net you lot of money as well as excellent perks that are very useful for the story missions. If you are fan of open world, sandbox style gameplay, and do not mind challenges, you aboslutely must play this.
+
+**Review**:
+
+| Criteria     | Score | Comments |
+|--------------|-------|----------|
+| Story        | 4/5     | Good story inspired by mob films like Godfather, Goodfellas, and Sopranos |
+| Gameplay     | 4/5     | Can be glitchy and sluggish at times       |
+| GFX          | 4/5     | Modern graphics, revolutionary for its time|
+| Performance  | 5/5     | |
+| Replay Value | 2/5     | Worth revisiting in years         |
+| Immersion    | 4/5     |          |
+| Realism      | 3/5     |          |
+| Tempo        | 3/5     | Reccomended to take it slow to enjoy all that is in offer    |
+
+**Level of Challenge**: 0.5/5 average score, meaning easy
+
+| Criteria       | Score | Comments |
+|----------------|-------|----------|
+| Control Scheme | 2/5     | Standard FPS and vehicle controls    |
+| Complexity     | 2/5     | Simple |
+| Difficulty     | 4/5     | Some missions will test your perseverence       |
+| Learning Curve | 2/5     | Easy        |
+
+**Personal Opinion and Overall Experience Score**: 4/5
+
+I enjoyed the game, to be frank. Till date I have played it twice. Absolutely love the fantastic in-game radio stations with their distinctive music and RJs.
+
 #### Gun
 
 ![Gun Cover Art](https://upload.wikimedia.org/wikipedia/en/d/d4/Gun_Coverart.jpg "Cover art copyright of Neversoft/Activision. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
