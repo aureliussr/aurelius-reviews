@@ -16,6 +16,45 @@
 
 #### Borderlands
 
+![Borderlands Cover Art](https://aureliussr.github.io/aurelius-reviews/images/Borderlandscover.jpg "Cover art copyright of 2K Games. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
+
+**Year**: 2009
+
+**Genre**: First-person shooter, Action RPG, Open-world
+
+**Theme**: Sci-fi. Futuristic, Wasteland, Aliens
+
+**Developer**: Gearbox Software
+
+**Publisher**: 2K Games
+
+**Description**: Borderlands is an experiment in blending RPG with FPS in an open-world setting which worked out really well. Its a charming shooter with every element of shooters in it, but also ensures a balanced level of sanity through its open-world and RPG features. In this game you play the role of a (or a group of in co-op mode) mercenary(s) with the mission of finding the legendary “vault” – a repository of advanced alien technology in the planet of Pandora. Pandora however have been mined and exploited by large interplanetary corporations through means of cheap convict labor. The corporations have left the planet releasing the convicts on their departure, which has resulted in bandit run madness and chaos. The convict turned bandits and Pandora’s dangerous wildlife make survival difficult in this planet.You have to get rid of such bandits and monsters in your quest for the vault. Eventually you will also have to face the military forces of one of the corporations who want the vault contents for themselves. Along your journey you earn skill points, learn new skills, upgrade your weapons (there are lots and lots of them) and gear, and become more and more fearsome.  The setting is the planet Pandora which consists of a vast post apocalyptic wasteland with some mountainous terrains, caves, and canyons. There are story missions and side missions which can be received from various characters or bounty boards strewn across the various in-game locations. There is vehicles for transport and a fast-travel system, although most mission specific locations are inaccessible to vehicles and have to be traversed on foot. Gears, weapons, and first-aid can be bought and sold in vending machines across the lands. If you like both FPSs and RPGs, then this is a must-play game for you.
+
+**Review**:
+
+| Criteria     | Score | Comments |
+|--------------|-------|----------|
+| Story        | 2/5     | The story is not an important feature of the game, and as such is weak |
+| Gameplay     | 5/5     |  |
+| GFX          | 4/5     | Modern graphics |
+| Performance  | 5/5     |          |
+| Replay Value | 2/5     | Worth revisiting in years        |
+| Immersion    | 3/5     |         |
+| Realism      | 4/5     | The graphic style is cartoonish, but the physics of shooting is still quite standard        |
+| Tempo        | 2/5     | A bit sluggish and repititive        |
+
+**Level of Challenge**: 2.25/5 average score, meaning easy
+
+| Criteria       | Score | Comments |
+|----------------|-------|----------|
+| Control Scheme | 2/5     | Regular FPS controls    |
+| Complexity     | 3/5     | Upgrades and tactics       |
+| Difficulty     | 3/5     | A standard challenge        |
+| Learning Curve | 1/5     |         |
+
+**Personal Opinion and Overall Experience Score**: 3/5
+
+A superb open-world game, blend of FPS and RPG. Lots of shooting, fighting, hunting, and explosions. Rewarding gameplay. Nevertheless, it did not quite leave a mark for me.
 
 #### Far Cry 2
 
