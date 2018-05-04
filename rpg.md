@@ -54,8 +54,49 @@
 
 It's a very old game. Game mechanics are painful. Could not continue with it despite several trying several times. But the concept is attractive, which kept bringing me back again and again. Eventually I gave up though. 
 
-
 #### The Elder Scrolls III: Morrowind
+
+![TES III: Morrowind Cover Art](https://aureliussr.github.io/aurelius-reviews/images/MorrowindCOVER.jpg "Cover art copyright of Bethesda Softworks. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
+
+**Year**: 2002
+
+**Genre**: RPG, Action adventure, Open world
+
+**Theme**: Medieval, High fantasy, Magic
+
+**Developer**: Bethesda Game Studios
+
+**Publisher**: Bethesda Softworks
+
+**Description**: Once in a while, in the world of games, arrives such exceptional products like TES III: Morrowind. This game can be considered near perfect, and one of the most complete packages you will ever come across as far as games are concerned. It is a hardcore RPG, with solid combat system, deep levels of immersion, full freedom of choices, vast open world, sandbox gameplay, complex customization, crafting, rich lore, and a deep, dark, mystifying story of corruption and power among other attractions and features. Although pretty old, you get fantastic mods to improve your graphical experience. In the game, you start as a nobody – a prisoner sent to the island of Vvardenfell in the province of Morrowind. Your task is to unearth the mysterious cause of the blight that is affecting the island and its creatures, and various related problems, of which some are political in nature. You start from the bottom and slowly work your way up one or the other of the ruling houses in the island, while gathering experience by working for the various guilds. Soon you start uncovering the destiny you have been entrusted to fulfill, as you come to terms with your growing power and influence, and you discover the freedom you have to forge the destiny of the island and its people. And all this in the surreal and unique natural setting of Morrowind, with its giant mushrooms and cliff racers. The island is as dangerous as beautiful it looks, with all types of nasty monsters lurking around. Other types of enemies include bandits, smugglers, rogue mages, daedra, and members of rival houses, as well as guards if you go on a criminal spree! Just buy this game and enjoy.
+
+**Review**:
+
+| Criteria     | Score | Comments |
+|--------------|-------|----------|
+| Story        | 5/5     | Retired without finishing |
+| Gameplay     | 4/5     | The game is a bit aged, but it has aged well        |
+| GFX          | 4/5     | Again, the age shows, but can be improved with mods       |
+| Performance  | 5/5     |         |
+| Replay Value | 5/5     | Different characters, different builds, different choices, houses to align with, etc.  |
+| Immersion    | 5/5     | Aesthetics and gameplay both are immersive       |
+| Realism      | 4/5     | Stats matter, weapons differ, tactics         |
+| Tempo        | 3/5     | Recommended to take it slow         |
+
+**Level of Challenge**: 4/5, meaning it is a challenging game
+
+| Criteria       | Score | Comments |
+|----------------|-------|----------|
+| Control Scheme | 2/5     | |
+| Complexity     | 5/5     | Hardcore RPG, number crunching and character builds matter, spells, items       |
+| Difficulty     | 4/5     | Its not a very easy game, especially the initial few hours can be quite difficult        |
+| Learning Curve | 5/5     | References, wikis, etc. are required to get the hang of everything       |
+
+**Personal Opinion and Overall Experience Score**: 5/5
+
+Arguably, the best ever hardcore action-adventure RPG to date, also one of the most immersive. An absolute must have for hardcore RPG fans. For me personally, it is still the best game I ever played.
+
+
 
 #### Gothic
 
