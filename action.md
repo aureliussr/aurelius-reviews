@@ -82,7 +82,7 @@ I enjoyed the game, to be frank. Till date I have played it twice with a gap of 
 | Realism      | 4/5     | Basic physics and AI        |
 | Tempo        | 4/5     |     |
 
-**Level of Challenge**: 0.45/5 average score, meaning easy
+**Level of Challenge**: 2.25/5 average score, meaning easy
 
 | Criteria       | Score | Comments |
 |----------------|-------|----------|
@@ -124,7 +124,7 @@ I enjoyed the game, to be frank. Till date I have played it twice with a gap of 
 | Realism      | 3/5     |          |
 | Tempo        | 3/5     | Reccomended to take it slow to enjoy all that is in offer    |
 
-**Level of Challenge**: 0.5/5 average score, meaning easy
+**Level of Challenge**: 2.5/5 average score, meaning easy
 
 | Criteria       | Score | Comments |
 |----------------|-------|----------|
@@ -208,7 +208,7 @@ Thoroughly enjoyed this game. Biggest drawback is its short length. Loved doing 
 | Realism      | 3/5     |          |
 | Tempo        | 3/5     | Standard open world pace with lot of activities    |
 
-**Level of Challenge**: 0.45/5 average score, meaning easy
+**Level of Challenge**: 2.25/5 average score, meaning easy
 
 | Criteria       | Score | Comments |
 |----------------|-------|----------|
