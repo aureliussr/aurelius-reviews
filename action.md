@@ -1,5 +1,8 @@
 # Action Games
 
+## Generic First and Third Person Action Games
+* [Condemned Criminal Origins (2005)](#condemned-criminal-origins)
+
 ## Action Adventures
 * [Assassin's Creed (2007)](#assassins-creed)
 * [Grand Theft Auto III (2001)](#grand-theft-auto-iii)
@@ -52,6 +55,8 @@
 **Personal Opinion and Overall Experience Score**: 3/5
 
 I enjoyed the game, to be frank. Till date I have played it twice with a gap of four to five years in-between. It is a bit monotonous though and can be a bit boring in comparison to recent games of its genre.
+
+#### Condemned Criminal Origins
 
 #### Dishonored
 
