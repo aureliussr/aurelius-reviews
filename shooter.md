@@ -101,45 +101,46 @@ I played this game over one to three incomplete playthroughs spanning 35 hours i
 
 #### Far Cry 4
 
-![Far Cry 4 Cover Art](https://upload.wikimedia.org/wikipedia/en/9/97/Far_Cry_2_cover_art.jpg "Cover art copyright of Ubisoft. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
+![Far Cry 4 Cover Art](https://aureliussr.github.io/aurelius-reviews/images/Far_Cry_4_box_art.jpg	
+ "Cover art copyright of Ubisoft. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
 
-**Year**: 2008
+**Year**: 2014
 
 **Genre**: First-person shooter, Open-world
 
-**Theme**: Mercenaries, Soldier of Fortune, Africa, Civil war, Conflict daimonds
+**Theme**: Himalaya, Mountain Kingdom, Civil War, Buddhism, Hinduism, Rebellion
 
 **Developer**: Ubisoft Montreal
 
 **Publisher**: Ubisoft
 
-**Description**: This is the second instalment in the Far Cry franchise of games, which had started off with critical acclaim through the original Far Cry game. Far Cry 2 ushered in the dawn of ultra modern FPSs with breath of new generation GFX, shooting and driving mechanisms, and open-world gameplay. Some innovations in terms of the buddy system and twisted plot generated good praises. You play the role of a soldier of fortune sent to civil war torn African country, in order to bring down a notorious gun smuggler, who is held accountable by the west as the one supplying both sides of the civil war with weapons and ammo. Unfortunately you get captured the moment you arrive and eventually also contract malaria sickness. Days later you are able to escape during a firefight between the two opposing sides of the civil war. Some existing foreign mercenaries help you get back to your feet, equip you with gear, transport, and safe-houses, and puts you in contact with one of the warring parties. From hereon you have to keep doing jobs for both the opposing parties, playing one side off against the other till you gather enough information to reach your target. Along your journey you befriend foregin mercenaries who become your buddies, and help you out during missions if you help them by performing side-quests for them. Although a innovative game achieving high levels of immersion, several serious issues makes it impossible for me to reccommend it.
+**Description**: This is the fourth instalment in the Far Cry franchise of games, which had started off with critical acclaim through the original Far Cry game...(to be contd.)
 
 **Review**:
 
 | Criteria     | Score | Comments |
 |--------------|-------|----------|
-| Story        | 1/5     | The plot seems almost absent |
-| Gameplay     | 4/5     | It is good, but extremely repititive        |
-| GFX          | 4/5     | Modern graphics, some issues with the lighting and brightness        |
-| Performance  | 5/5     |          |
-| Replay Value | 1/5     | I did not even finish it once         |
-| Immersion    | 5/5     | This is the one aspect in which the game truly shines        |
-| Realism      | 4/5     | Very realistic shooting, and environmental elements like wind, and spreading fire         |
-| Tempo        | 2/5     | Sluggish and repititive        |
+| Story        | 2/5     | The plot is very weak and almost non-existent; but that does not really matter in this case |
+| Gameplay     | 5/5     | Perfected and flawless        |
+| GFX          | 5/5     | Ultra modern graphics with one of the most beautifully rendered enivronment to date        |
+| Performance  | 4/5     | Well optimized but is a serious resource hogger         |
+| Replay Value | 3/5     | There are two different paths/factions to choose and various endings possible         |
+| Immersion    | 4/5     | You will truly feel like being in Nepal, Himalaya        |
+| Realism      | 3/5     | Basic physics        |
+| Tempo        | 3/5     | Depends on playing style really, completionists will need some time        |
 
 **Level of Challenge**: 2.25/5 average score, meaning easy
 
 | Criteria       | Score | Comments |
 |----------------|-------|----------|
 | Control Scheme | 2/5     | Regular FPS controls    |
-| Complexity     | 2/5     | Upgrades and tactics       |
-| Difficulty     | 4/5     | Only thing easy  about this game is to die        |
+| Complexity     | 3/5     | Upgrades and tactics, commerce, crafting, etc.       |
+| Difficulty     | 3/5     | Balanced, and there are ways to influence the difficulty of areas by following certain order of completing tasks        |
 | Learning Curve | 1/5     |         |
 
-**Personal Opinion and Overall Experience Score**: 2/5
+**Personal Opinion and Overall Experience Score**: 4/5
 
-I played this game over one to three incomplete playthroughs spanning 35 hours in total. The longest playthrough was probably for around 20 -25 hours. The game does have its plus points, the biggest being the immersion it is able to achieve, both through GFX and also gameplay. For example, the game uses a hand-held map which does not force you to leave the game screen, and GPS is realistic, the HUD is very minimal. You get seizures of malaria randomly, and if you use worn out guns, they jam while in combat. These elements help achive superb levels of immersion. However the game has some big problems. Firstly its plot is weak and alsmost inexistant. The map is so small that different missions keep happening in same locations. The repititiveness of the game becomes a pain after 20 hours and the progression is so sluggish that even after 25 hours you feel like you are just where you had started. Thus even after three diffferent attempts, I had to finally retire from this game.
+...
 
 
 
