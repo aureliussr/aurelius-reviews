@@ -6,6 +6,7 @@
 ## Action Adventures
 * [Assassin's Creed (2007)](#assassins-creed)
 * [Grand Theft Auto III (2001)](#grand-theft-auto-iii)
+* [Grand Theft Auto IV (2008)](#grand-theft-auto-iv)
 * [Gun (2005)](#gun)
 * [Saint's Row 2 (2008)](#saints-row-2)
 
@@ -141,6 +142,8 @@ I enjoyed the game, to be frank. Till date I have played it twice with a gap of 
 **Personal Opinion and Overall Experience Score**: 4/5
 
 I enjoyed the game, to be frank. Till date I have played it twice. Absolutely love the fantastic in-game radio stations with their distinctive music and RJs.
+
+#### Grand Theft Auto IV
 
 #### Gun
 
