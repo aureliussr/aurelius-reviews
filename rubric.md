@@ -15,6 +15,8 @@
 
 ## Level of challenge
 
+Formula = (CS+COM+DF+LC)/20*5
+
 | Criteria       | 1           | 2      | 3            | 4         | 5              |
 |----------------|-------------|--------|--------------|-----------|----------------|
 | Control Scheme | Very easy   | Easy   | Medium       | Difficult | Very Difficult |
