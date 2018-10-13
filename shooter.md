@@ -114,7 +114,7 @@ I played this game over one to three incomplete playthroughs spanning 35 hours i
 
 **Publisher**: Ubisoft
 
-**Description**: This is the fourth instalment in the Far Cry franchise of games, which had started off with critical acclaim through the original Far Cry game...(to be contd.)
+**Description**: This is the fourth instalment in the Far Cry franchise, which had started off with critical acclaim for the original Far Cry game. The series has evolved quite a bit since then and for the good. Far Cry 4 is a top FPS, and can easily be considered as one of the pillars on which the FPS genre rests at the moment. It is an open-world game, with tons of things to do, including hunting exotic animals. The setting is a fictional country Kyrat, nestled in a beautiful Himalayan valley. It's essentially one of the prettiest games out there at the moment. There are plenty of guns, and explosives. You can ride land vehicles, boats, and the aerial buzzer. There is the parachute and the wingsuit for sky diving. There is a vertical element to the gameplay through the means of the grappling hook, and plenty of places to climb. There are also the usual tons of collectibles, and side missions with unique flavors, including one type that transports you to a yet more magical setting based on myths and legends. As far as plot is concerned, you play the role of a Kyrati-American, returning to your motherland in order to fulfil your mom's last wish. However, the country is in turmoil with a rebel faction fighting for independence from the tyrannical rule of the foreign despot Pagan Min, who had been systematically exploiting the country's resources for production of drugs. In fact you learn that your father was a hero of the rebellion and had been a martyr to the cause back in the day when Min had just started to consolidate his power. Now the rebel faction leaders look up to you to join the cause and lead the people; finish what your father started, and get rid of Min. From hereon it is sort of cliched "kill all the generals to reach the leader" storyline, although the weak plot will hardly bother you thanks to all the interesting things you have to do in the beautiful open-world of Kyrat. A must-buy for FPS and open-world fans.
 
 **Review**:
 
@@ -140,8 +140,7 @@ I played this game over one to three incomplete playthroughs spanning 35 hours i
 
 **Personal Opinion and Overall Experience Score**: 4/5
 
-...
-
+I enjoyed this game immensely. I hardly remember the plot elements, as they are entirely forgettable, but that does not bother me at all. The game is enjoyable just through its gameplay and immersion. I could not have had enough of the beautiful Kyrat, its valleys and peaks, its exotic animals, and the majestic views of the Himalayas. This game is also closer to my heart on a personal level since I have first-hand experience of both the culture and the settings depicted in this game. I also went 100% completionist on this one without giving it up, and managed to do everything (including plethora of collectibles), except the boring arena levels, finishing at 99%. FC4 has been a memorable experience which I will cherish for long.
 
 
 #### Resident Evil 2002
