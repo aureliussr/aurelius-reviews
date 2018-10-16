@@ -145,6 +145,46 @@ I enjoyed the game, to be frank. Till date I have played it twice. Absolutely lo
 
 #### Grand Theft Auto IV
 
+![Grand Theft Auto IV Cover Art](https://aureliussr.github.io/aurelius-reviews/images/Grand_Theft_Auto_IV_cover.jpg "Cover art copyright of Rockstar. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
+
+**Year**: 2008
+
+**Genre**: Action adventure, Open world, Third-person shooter
+
+**Theme**: Crime, Organized Crime, Gangsters, Mafia, New York City, Street Racing
+
+**Developer**: Rockstar North
+
+**Publisher**: Rockstar
+
+**Description**: GTA IV...
+
+**Review**:
+
+| Criteria     | Score | Comments |
+|--------------|-------|----------|
+| Story        | 1/5     | IMO the story is the worst of any GTA game |
+| Gameplay     | 3/5     | Clunky and sluggish      |
+| GFX          | 5/5     | |
+| Performance  | 2/5     | Constant choppiness and fps drops even in beast of machines|
+| Replay Value | 1/5     | None    |
+| Immersion    | 4/5     |          |
+| Realism      | 4/5     |          |
+| Tempo        | 3/5     | Reccomended to take it slow to enjoy all that is in offer    |
+
+**Level of Challenge**: 2.5/5 average score, meaning easy
+
+| Criteria       | Score | Comments |
+|----------------|-------|----------|
+| Control Scheme | 2/5     | Standard FPS and vehicle controls    |
+| Complexity     | 2/5     | Simple |
+| Difficulty     | 4/5     | Some missions will test your perseverence       |
+| Learning Curve | 2/5     | Easy        |
+
+**Personal Opinion and Overall Experience Score**: 1/5
+
+Wasted so much time on this, on so many runs. Finally reached the end to get glitched out on my modern rig. Worst story, clunky combat, repititive, boring, a hero without any charisma or class. Worst GTA game ever.
+
 #### Gun
 
 ![Gun Cover Art](https://upload.wikimedia.org/wikipedia/en/d/d4/Gun_Coverart.jpg "Cover art copyright of Neversoft/Activision. Source Wikipedia. Thumbnail image for commentary as per Fair Use policy"){:height="150px" width="110px"}
