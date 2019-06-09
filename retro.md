@@ -17,7 +17,7 @@
 ## 4X Strategy
 * [Sid Meier’s Civilization (1991)](#sid-meiers-civilization)
 
-## Strategy Simulation
+## Simulation
 * [Patrician, The (1992)](#the-patrician)
 
 ## Turn-based Strategy
